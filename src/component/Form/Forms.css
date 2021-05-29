@@ -1,0 +1,30 @@
+body {
+    margin: 0px;
+    padding:0px;
+  }
+  .forms{
+    text-align: center; 
+  background-color:rgb(119, 184, 21);
+  height:150px;
+  
+  }
+  
+  .forms form input[type="text"]{
+  
+    height:20px;
+    width: 300px;
+  }
+  
+  .forms form input[type="text"]  {
+    margin-top: 20px;
+    background-color:rgb(191, 164, 211);
+    border-radius:4px;
+    border: 3px solid black;
+    color: black;
+   
+  }
+  
+  form input label{
+   margin-left: 39px;
+   
+  }
